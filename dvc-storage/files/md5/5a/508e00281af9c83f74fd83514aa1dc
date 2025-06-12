@@ -1,0 +1,10 @@
+Province,VehicleType,TotalPolicies,TotalPremium,TotalClaims,LossRatio
+Gauteng,Passenger Vehicle,450000,25000000,30500000,1.22
+Western Cape,Passenger Vehicle,180000,9800000,10380000,1.059
+KwaZulu-Natal,Passenger Vehicle,220000,13200000,14300000,1.083
+Eastern Cape,Light Commercial,45000,2600000,600000,0.232
+Northern Cape,Bus,5000,58000,8000,0.137
+Mpumalanga,Medium Commercial,35000,2800000,2000000,0.721
+Free State,Heavy Commercial,8000,520000,355000,0.681
+Limpopo,Passenger Vehicle,25000,1500000,1000000,0.661
+North West,Commercial,40000,7400000,5900000,0.790 
